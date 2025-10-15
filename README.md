@@ -4,7 +4,7 @@
 
 Small full-stack app: upload source files, get LLM-style code review (mock). Frontend is Vite + React + TypeScript + Tailwind. Backend is Express + SQLite.
 
-## live demo/
+## live demo
 
 https://code-review-assistant-teal.vercel.app/
 
@@ -24,5 +24,6 @@ cd backend
 npm install
 npm run dev
 ```
+
 
 
