@@ -1,4 +1,4 @@
-# code-review-assistant# Code Review Assistant (Local, no Docker)
+# code-review-assistant# Code Review Assistant
 
 ## Overview
 
@@ -10,8 +10,13 @@ Small full-stack app: upload source files, get LLM-style code review (mock). Fro
 
 ```bash
 cd backend
-cp .env.example .env
 npm install
-npm start
-# backend listens on http://localhost:3000
+npm run dev
+```
+
+
+```bash
+cd backend
+npm install
+npm run dev
 ```
