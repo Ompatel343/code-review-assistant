@@ -2,7 +2,7 @@
 
 ## Overview
 
-Small full-stack app: upload source files, get LLM-style code review (mock). Frontend is Vite + React + TypeScript + Tailwind. Backend is Express + SQLite.
+Small full-stack app: upload source files, get LLM code review. Frontend is Vite + React + TypeScript + Tailwind. Backend is Express + SQLite.
 
 ## live demo
 
@@ -24,6 +24,7 @@ cd backend
 npm install
 npm run dev
 ```
+
 
 
 
